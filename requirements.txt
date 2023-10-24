@@ -1,6 +1,7 @@
 # basic packages
 pandas
 numpy
+jupyterlab
 
 # pose detection
 mediapipe
