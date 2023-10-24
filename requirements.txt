@@ -1,0 +1,7 @@
+# basic packages
+pandas
+numpy
+
+# pose detection
+mediapipe
+opencv-python
